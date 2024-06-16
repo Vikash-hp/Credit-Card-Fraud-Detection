@@ -18,7 +18,9 @@ To run this project, you need to have Python installed along with the following 
 - pandas
 - numpy
 - scikit-learn
-You can install the required packages using:
+
+  
+# You can install the required packages using:
 ```bash```
 pip install -r requirements.txt
 
