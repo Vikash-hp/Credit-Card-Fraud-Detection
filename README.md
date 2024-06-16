@@ -24,8 +24,8 @@ To run this project, you need to have Python installed along with the following 
 ```bash```
 pip install -r requirements.txt
 
-#Evaluation Metrics
+# Evaluation Metrics
 - Accuracy:98.07%
 
-#Contributing
+# Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements, bug fixes, or suggestions.
