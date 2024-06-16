@@ -18,13 +18,12 @@ To run this project, you need to have Python installed along with the following 
 - pandas
 - numpy
 - scikit-learn
-- 
 You can install the required packages using:
 ```bash```
 pip install -r requirements.txt
 
 ##Evaluation Metrics
-Accuracy:98.07%
+- Accuracy:98.07%
 
 ##Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for any enhancements, bug fixes, or suggestions.
